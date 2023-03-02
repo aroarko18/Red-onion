@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d04bcd7d.css",
+    "main.js": "/static/js/main.d22198f4.js",
+    "static/media/bannerbackground.png": "/static/media/bannerbackground.0f3b87c042dc40563e27.png",
+    "static/media/signup-bg.jpg": "/static/media/signup-bg.66b660c5b2655d8d006c.jpg",
+    "static/media/chef-cook-food-33614.png": "/static/media/chef-cook-food-33614.b7aaa6547348af00e758.png",
+    "static/media/architecture-building-city-2047397.png": "/static/media/architecture-building-city-2047397.b30f0402b1f49996d50f.png",
+    "static/media/adult-blur-blurred-background-687824.png": "/static/media/adult-blur-blurred-background-687824.4e628e3ced3ebd134f72.png",
+    "static/media/logo.png": "/static/media/logo.1263bfd7a3c57cd1615e.png",
+    "static/media/logo2.png": "/static/media/logo2.7419725de4a80970e3a8.png",
+    "index.html": "/index.html",
+    "main.d04bcd7d.css.map": "/static/css/main.d04bcd7d.css.map",
+    "main.d22198f4.js.map": "/static/js/main.d22198f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d04bcd7d.css",
+    "static/js/main.d22198f4.js"
+  ]
+}
